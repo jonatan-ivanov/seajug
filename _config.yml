@@ -27,6 +27,8 @@ linkedin_group_name: seajug
 linkedin_group: "1813419"
 rss: RSS Feed
 
+source_repo_url: https://github.com/jonatan-ivanov/seajug
+
 # Build settings
 markdown: kramdown
 theme: minima
