@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 The Seattle Java User's group has been meeting since the mid-90s in the Seattle and Eastside area. It is geared towards topics related to the Java Virtual Machine and languages which run on it such as Java, etc. You can find us on [meetup.com/seajug](https://www.meetup.com/seajug/).
