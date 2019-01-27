@@ -4,7 +4,6 @@ title: Mailing Lists
 permalink: /mailing-lists/
 ---
 
-# Mailing Lists
 SeaJUG hosts two discussion groups using the freely available [Yahoo! Groups](https://groups.yahoo.com/) service. This service provides mailing list management, list archives, and other convenient features. To subscribe to the discussion groups, follow the links below:
 
 ## Technical Discussion List
