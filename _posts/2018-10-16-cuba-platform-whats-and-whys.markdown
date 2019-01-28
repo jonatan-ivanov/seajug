@@ -4,9 +4,8 @@ title: "CUBA Platform - Whats and Whys"
 date: 2018-10-16T00:00:00-08:00
 ---
 
-[See the event on meetup.com](https://www.meetup.com/seajug/events/255160017/)
-
 [CUBA Platform](https://github.com/cuba-platform/cuba) is an open source Java framework for rapid enterprise application development. CUBA allows to develop application much faster using a well-known set of frameworks: [Spring](https://spring.io/), [Vaadin](https://vaadin.com/), [EclipseLink](http://www.eclipse.org/eclipselink/) and more.
+See: [meetup.com](https://www.meetup.com/seajug/events/255160017/)
 
 We've spent our time developing CUBA, adding extra functionality to frameworks so you won't spend your time on implementing common tasks like user management, security and audit, generic REST API, etc. CUBA provides plenty of features out of the box and you will still be using well-known frameworks during development. In addition to this we will introduce the unique application extension approach that both ensures internal extensibility and facilitates external components development.
 

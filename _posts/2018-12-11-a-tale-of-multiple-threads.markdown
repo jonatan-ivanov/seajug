@@ -4,9 +4,9 @@ title: "A Tale of Multiple Threads"
 date: 2018-12-11T00:00:00-08:00
 ---
 
-[See the event on meetup.com](https://www.meetup.com/seajug/events/256426712/)
-
 Let's sing a story about ol Timmy. He yearned to write more complex code. As he ventured in the land of the multi-threaded grabs, He felled swiftly on despair and traps.
+See: [meetup.com](https://www.meetup.com/seajug/events/256426712/)
+
 
 Come and listen to the Java Rhymester as we take a plunge into proper multi-threading programming. It's a hard topic, but it doesn't have to be! Once you start seeing the code behind threads you'll know that just being aware of how multi-threading really works will make most of your fears go away, and while the path to writing perfect multi-threaded code is long, this is the journey that will take you there!
 
