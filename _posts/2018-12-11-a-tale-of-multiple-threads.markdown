@@ -12,6 +12,8 @@ Come and listen to the Java Rhymester as we take a plunge into proper multi-thre
 
 # Speaker: Freddy Guime, Principal Developer, Expedia
 
+![Freddy]({{ "/assets/2018-12-11-a-tale-of-multiple-threads/freddy.png" | relative_url }})
+
 Freddy is a Principal Developer at Expedia. Always dealing with performance and usability he is always curious on how to make the overabundance of data useful for travelers, traders and consumers. Having worked with different technologies before has allowed him to come with solutions to rendering bottleneck problems. A Usability Guru, Freddy understands and bridges the concepts of high-throughput with usability within software.
 
 He is also the author and maintainer of the javapubhouse.com, a podcast dedicated to tutorial topics in Java that covers everything from the use of the keyword volatile to the definition of beautiful code, also of javaoffheap.com, a java news podcast and he's the current community leader for the Chicago Java Users Group.
