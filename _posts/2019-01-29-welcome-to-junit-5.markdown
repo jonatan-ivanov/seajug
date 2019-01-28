@@ -8,4 +8,7 @@ JUnit 5 has been out for a year, so what is the big fuss and why should I take t
 See: [meetup.com](https://www.meetup.com/seajug/events/258089049/)
 
 # Speaker: Billy Korando
+
+![Billy]({{ "assets/2019-01-29-welcome-to-junit-5/billy.png" | relative_url }})
+
 Billy is a developer advocate with IBM and has over a decade of experience. Billy is passionate about finding ways to reduce mental capacity waste from tedious work; such as project initiation, deployment, testing and validation, and so on through automation and good management practices. Outside of work Billy enjoys traveling, playing kickball, and having his heartbroken by cheering on the Kansas City Chiefs.
