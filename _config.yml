@@ -19,6 +19,7 @@ description: "Seattle Java User’s group"
 baseurl: "/seajug"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
+future: true
 
 author: Nimret Sandhu
 
