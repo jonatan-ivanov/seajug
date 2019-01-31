@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reimagining Software Testing with Testify
-date: 2018-08-22T06:26:35.251Z
+date: 2018-08-21T00:00:00-08:00
 ---
 In a world where Microservices and CI/CD is the norm, how do we make software testing simpler? How do we make it easy to explain, to understand and to write? Can we provide developers and framework makers a unified testing tool to make their lives simpler? I think we can, but first, we have to define the job to be done and reimagine software testing.
 See: [meetup.com](https://www.meetup.com/seajug/events/253294777/) and [slides](https://docs.google.com/presentation/d/1OpzB2s2ZteBgCMaiItgcNhdAHjM8y377GKDmcRVSS4k/edit#slide=id.g3fc7311dd4_2_82)
