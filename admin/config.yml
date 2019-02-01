@@ -2,6 +2,7 @@ backend:
   name: github
   repo: jonatan-ivanov/seajug
   branch: master
+  site_domain: seajug.netlify.com
 
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
